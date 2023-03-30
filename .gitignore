@@ -1,0 +1,14 @@
+audacity/
+build/
+mp3s/
+results/
+secrets/
+transcriptions/
+
+# Node stuff
+node_modules/
+npm-debug.log
+.env
+
+.DS_Store
+.idea/

@@ -1,0 +1,16 @@
+{
+  "name": "blogger",
+  "type": "module",
+  "main": "app.js",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "openai": "^3.2.1"
+  },
+  "scripts": {
+    "transcribe": "node app.js"
+  },
+  "engines": {
+    "node": ">=14.19.2"
+  }
+}
